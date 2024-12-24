@@ -1,6 +1,6 @@
 # User Behavior Analysis and Order Trends
 
-
+![Logo](https://github.com/mking456/UserBehaviorAnalysis/blob/main/Upalaiance/simply-otp-login-modal-logo.webp)
 
 ## Project Overview
 This project aims to analyze datasets related to user behavior, cooking preferences, and order trends. The analysis involves cleaning and merging data, identifying popular dishes, and exploring demographic factors that influence user behavior. Visualizations were created using Power BI to summarize key insights.
